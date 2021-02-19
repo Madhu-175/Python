@@ -2,7 +2,7 @@
 file name: Python-practice
 author: Madhu
 tool: IDLE
-created:18/02/2021
+
 """
 
 '''1. Listing of prime no without using for loop'''
